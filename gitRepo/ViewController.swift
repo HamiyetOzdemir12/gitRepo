@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     
     let hello="hello world"
     let key = "This is Hamiyet"
+    let deneme = "merge denemesi"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
